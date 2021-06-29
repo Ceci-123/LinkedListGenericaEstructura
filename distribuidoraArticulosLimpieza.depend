@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1624806587 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624844560 c:\users\user\desktop\distribuidoraarticuloslimpieza\validaciones.h
+
+1624925195 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624844277 c:\users\user\desktop\distribuidoraarticuloslimpieza\linkedlist.h
+
+1624815905 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"Controller.h"
+
+1624844768 c:\users\user\desktop\distribuidoraarticuloslimpieza\controller.h
+
+1624828137 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\estructura_generica.c
+	"estructura_generica.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624924917 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"estructura_generica.h"
+
+1624968933 c:\users\user\desktop\distribuidoraarticuloslimpieza\estructura_generica.h
+
+1624835052 source:c:\users\user\desktop\distribuidoraarticuloslimpieza\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"validaciones.h"
+	"Controller.h"
+	"estructura_generica.h"
+
+1624810677 c:\users\user\desktop\distribuidoraarticuloslimpieza\parser.h
+
